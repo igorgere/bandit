@@ -10,6 +10,6 @@ ls -lah
 cat "spaces in this filename"
 # Alternative:
 # cat "$(ls)"
-  > UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+#   > UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 ```
 Next: [bandit3.md](bandit3.md)
